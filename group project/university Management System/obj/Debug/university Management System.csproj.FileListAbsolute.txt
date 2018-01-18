@@ -1,0 +1,8 @@
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university_Management_System.Form1.resources
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university_Management_System.Main.resources
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university_Management_System.Properties.Resources.resources
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university Management System.csproj.GenerateResource.Cache
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university_Management_System.exe
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\obj\Debug\university_Management_System.pdb
+C:\Users\farhan\documents\visual studio 2015\Projects\university Management System\university Management System\bin\Debug\university_Management_System.exe.config
+C:\Users\farhan\Desktop\WebSite\university_Management_System.exe.config

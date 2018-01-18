@@ -1,0 +1,8 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP 1000 [Teacher_ID]
+      ,[Teacher_Name]
+      ,[specialization]
+      ,[salary]
+      ,[Teacher_Address]
+      ,[Teacher_phone]
+  FROM [UMS].[dbo].[UMS-tbl-Teachers]

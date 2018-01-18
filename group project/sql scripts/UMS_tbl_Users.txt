@@ -1,0 +1,4 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP 1000 [Users]
+      ,[Passwords]
+  FROM [UMS].[dbo].[UMS_tbl_Users]
